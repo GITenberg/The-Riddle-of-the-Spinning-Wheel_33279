@@ -1,0 +1,36 @@
+_repo: The-Riddle-of-the-Spinning-Wheel_33279
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hanshew, Mary E.
+    gutenberg_agent_id: '7197'
+    url: http://www.gutenberg.org/2009/agents/7197
+  - agent_name: Hanshew, Thomas W.
+    alias: Hanshew, T. W. (Thomas W.)
+    birthdate: 1857
+    deathdate: 1914
+    gutenberg_agent_id: '5480'
+    url: http://www.gutenberg.org/2009/agents/5480
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_W._Hanshew
+description: 'Hamilton Cleek is a renaissance man for the ages: an intellectual giant
+  with the brawn of ten men, he serves as a consulting detective, often helping Scotland
+  Yard with particularly challenging cases. In The Riddle of the Spinning Wheel, Cleek
+  finds himself at the center of a confounding whodunit. Will this be the mystery
+  that finally pushes him over the edge?'
+gutenberg_issued: '2010-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'Cleek, Hamilton (Fictitious character) -- Fiction'
+title: The Riddle of the Spinning Wheel
+url: http://www.gutenberg.org/ebooks/33279
